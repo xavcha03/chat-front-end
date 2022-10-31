@@ -10,7 +10,7 @@ import { useEffect, useState } from 'react';
 
 
 //const socket = io.connect('http://192.168.0.10:4000');
-const socket = io.connect('https://aggressive-fly-battledress.cyclic.app:4000');
+const socket = io.connect('https://aggressive-fly-battledress.cyclic.app');
 
 
 
